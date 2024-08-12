@@ -1,6 +1,6 @@
 # Hadoop-MapReduce
 
 
-## Link Google Collab 
+## Link Google Colab 
 
 [Map Reduce](https://colab.research.google.com/drive/1dpdO8ES3jXPZy54GPJJKkO9VXwK0qYL8#scrollTo=p5hwv32dPnby)

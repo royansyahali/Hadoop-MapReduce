@@ -1,4 +1,4 @@
-# Installing Java 8 & Install Hadoop
+#Installing Java 8 & Install Hadoop
 
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
 !java -version
